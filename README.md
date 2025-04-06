@@ -8,13 +8,15 @@ I’m applying to CHAI because you build AI with *personality*. And so do I.
 
 ---
 
-## What’s In This Repo
-- **Prompt Structures**: Modular inputs for tone-shifting, surprise, and emotional pacing  
-- **Character Simulations**: Custom LLM personas with memory shaping & layered context  
-- **Engagement Logs**: Notes on retention, reactions, user flow & failure points  
-- **Reflections**: Iterations, adaptations, and what I learned by breaking things
+<h2>📦 <span style="color:#e91e63;">What’s In This Repo</span></h2>
 
----
+<ul>
+  <li><strong>🎯 Prompt Structures:</strong> Modular inputs for tone-shifting, surprise, and emotional pacing</li>
+  <li><strong>🎭 Character Simulations:</strong> Custom LLM personas with memory shaping & layered context</li>
+  <li><strong>📊 Engagement Logs:</strong> Notes on retention, reactions, user flow & failure points</li>
+  <li><strong>🔍 Reflections:</strong> Iterations, adaptations, and what I learned by breaking things</li>
+</ul>
+
 
 ## Why Me, Why CHAI?
 - I don’t just prompt—I *engineer experiences*  
