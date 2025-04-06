@@ -1,0 +1,27 @@
+prompts/tone-shifting.txt 
+LLM-Entertainment-Prompt-Engineering-Portfolio/
+│
+├── README.md
+├── screenshots/                ← 📸 Upload visual proof of your work
+│   ├── prompt-structure.png
+│   └── character-sim.gif
+│
+├── prompts/                   ← 💬 Raw & structured prompt files
+│   ├── tone-shifting.txt
+│   ├── layered-context.md
+│   └── surprise-hooks.md
+│
+├── characters/                ← 🎭 Custom LLM personas you designed
+│   ├── science-bae.md
+│   ├── chaos-therapist.txt
+│   └── soft-coach.md
+│
+├── logs/                      ← 📓 Notes on interaction flow & testing
+│   ├── engagement-notes.md
+│   ├── user-retention-chart.png
+│   └── failure-points.md
+│
+└── reflections/               ← 🤔 Your lessons, thoughts, & iterations
+    ├── lessons-learned.md
+    ├── what-didnt-work.txt
+    └── iteration-log.md
