@@ -17,13 +17,18 @@ I’m applying to CHAI because you build AI with *personality*. And so do I.
   <li><strong>🔍 Reflections:</strong> Iterations, adaptations, and what I learned by breaking things</li>
 </ul>
 
+---
+<h2><span style="color:#9c27b0;">Why Me, Why CHAI?</span></h2>
 
-## Why Me, Why CHAI?
-- I don’t just prompt—I *engineer experiences*  
-- I experiment fast, write faster, and learn in loops  
-- I’m obsessed with how humans talk to machines—and how to make it feel real
+<ul>
+  <li><strong>➤ I don’t just prompt</strong> — I <em>engineer experiences</em></li>
+  <li><strong>➤ I experiment fast</strong>, write faster, and <em>learn in loops</em></li>
+  <li><strong>➤ I’m obsessed</strong> with how humans talk to machines — and how to make it feel <em>real</em></li>
+</ul>
 
-I want to bring my blend of STEM discipline, AI curiosity, and storytelling instinct to CHAI’s world-class team. Whether it’s product testing, creative writing, or UX-style LLM tuning—I’m *in*.
+<p>
+  I want to bring my blend of <strong>STEM discipline</strong>, <strong>AI curiosity</strong>, and <strong>storytelling instinct</strong> to CHAI’s world-class team. Whether it’s <em>product testing</em>, <em>creative writing</em>, or <em>UX-style LLM tuning</em> — I’m <strong style="color:#e91e63;">in</strong>.
+</p>
 
 ---
 
